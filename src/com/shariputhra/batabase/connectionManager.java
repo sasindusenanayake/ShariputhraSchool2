@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+//Database class
 public class connectionManager {
 
 	private Connection con = null;
